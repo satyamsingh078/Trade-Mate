@@ -9,10 +9,9 @@ function Hero() {
           alt="Hero Image"
           className="mb-5"
         />
-        <h1 className="mt-5">Invest in everything</h1>
+        <h1 className="mt-5">Invest in a world of opportunities</h1>
         <p>
-          Online platform to invest in stocks, derivatives, mutual funds, and
-          more
+         An all-in-one platform to grow your wealth with equities, bonds, ETFs, cryptocurrencies, and beyond.
         </p>
         <button
           className="p-2 btn btn-primary fs-5 mb-5"

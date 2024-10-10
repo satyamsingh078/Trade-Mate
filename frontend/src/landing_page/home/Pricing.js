@@ -5,10 +5,9 @@ function Pricing() {
     <div className="container">
       <div className="row">
         <div className="col-4">
-          <h1 className="mb-3 fs-2">Unbeatable pricing</h1>
+          <h1 className="mb-3 fs-2">Lowest pricing</h1>
           <p>
-            We pioneered the concept of discount broking and price transparency
-            in India. Flat fees and no hidden charges.
+           At TradeMate, we believe in clear, transparent pricing from day one. Simple flat fees with no hidden charges, ensuring you get the best value for your investments.
           </p>
           <a href="" style={{ textDecoration: "none" }}>
             See Pricing{" "}
@@ -27,7 +26,7 @@ function Pricing() {
               </p>
             </div>
             <div className="col p-3 border">
-              <h1 className="mb-3">₹20</h1>
+              <h1 className="mb-3">₹10</h1>
               <p>Intraday and F&O</p>
             </div>
           </div>

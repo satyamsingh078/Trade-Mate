@@ -8,21 +8,14 @@ function Education() {
           <img src="media/images/education.svg" style={{ width: "70%" }} />
         </div>
         <div className="col-6">
-          <h1 className="mb-3 fs-2">Free and open market education</h1>
+          <h1 className="mb-3 fs-2">Open Financial Education</h1>
           <p>
-            Varsity, the largest online stock market education book in the world
-            covering everything from the basics to advanced trading.
+           At TradeMate, we’re committed to helping you grow. Access our learning hub, packed with resources to guide you from beginner basics to advanced investment strategies.
           </p>
-          <a href="" style={{ textDecoration: "none" }}>
-            Versity <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-          </a>
-          <p className="mt-5">
-            TradingQ&A, the most active trading and investment community in
-            India for all your market related queries.
+          <h1 className="mb-3 fs-2">Community Support</h1>
+          <p>
+           Join the TradeMate Forum, a growing community of like-minded investors where you can ask questions, share insights, and stay informed about the latest market trends.
           </p>
-          <a href="" style={{ textDecoration: "none" }}>
-            TradingQ&A <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-          </a>
         </div>
       </div>
     </div>
