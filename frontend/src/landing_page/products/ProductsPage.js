@@ -14,46 +14,39 @@ function PricingPage() {
       <Hero />
       <LeftSection
         imageURL="media/images/kite.png"
-        productName="Kite"
-        productDesription="Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite experience seamlessly on your Android and iOS devices."
-        tryDemo=""
-        learnMore=""
-        googlePlay=""
-        appStore=""
+        productName="Dashboard"
+        productDescription="Our ultra-fast flagship trading platform that offers seamless market data, intuitive charts, and a user-friendly interface. Experience trading at your fingertips."
+        tryDemo="#"
+        learnMore="#"
       />
       <RightSection
         imageURL="media/images/console.png"
-        productName="Console"
-        productDesription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
-        learnMore=""
+        productName="Account Overview"
+        productDescription="Get a complete view of your investments and trades. Our dashboard provides you with clear insights and analytics to help you make informed decisions."
+        learnMore="#"
       />
       <LeftSection
         imageURL="media/images/coin.png"
-        productName="Coin"
-        productDesription="Buy direct mutual funds online, commission-free, delivered directly to your Demat account. Enjoy the investment experience on your Android and iOS devices."
-        tryDemo=""
-        learnMore=""
-        googlePlay=""
-        appStore=""
+        productName="Investment Options"
+        productDescription="Explore a variety of investment options with our easy-to-use platform. Experience a streamlined investment process with direct mutual funds, tailored to your needs."
+        tryDemo="#"
+        learnMore="#"
       />
       <RightSection
         imageURL="media/images/kiteconnect.png"
-        productName="Kite Connect API"
-        productDesription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
-        learnMore=""
+        productName="TradeMate API"
+        productDescription="Unlock the potential of our trading APIs to create robust applications. Perfect for startups looking to build innovative investment solutions for their clients."
+        learnMore="#"
       />
       <LeftSection
         imageURL="media/images/varsity.png"
-        productName="Varsity mobile"
-        productDesription="An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go."
-        tryDemo=""
-        learnMore=""
-        googlePlay=""
-        appStore=""
+        productName="Education Hub"
+        productDescription="Access a comprehensive collection of stock market lessons designed for all levels of investors. Learn at your own pace with bite-sized lessons and interactive content."
+        tryDemo="#"
+        learnMore="#"
       />
       <p className="text-center mt-5 mb-5">
-        Want to know more about our technology stack? Check out the Zerodha.tech
-        blog.
+        Want to know more about our technology stack? Check out our blog for updates and insights.
       </p>
       <Universe />
     </>

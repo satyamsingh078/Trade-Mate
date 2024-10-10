@@ -6,32 +6,29 @@ function Hero() {
       <div className="row p-5 mt-5 border-bottom text-center">
         <h1>Pricing</h1>
         <h3 className="text-muted mt-3 fs-5">
-          Free equity investments and flat ₹20 traday and F&O trades
+          Transparent pricing for your trading journey.
         </h3>
       </div>
       <div className="row p-5 mt-5 text-center">
         <div className="col-4 p-4">
-          <img src="media/images/pricingEquity.svg" />
-          <h1 className="fs-3">Free equity delivery</h1>
+          <img src="media/images/pricingEquity.svg" alt="Free Equity Delivery" />
+          <h1 className="fs-3">Zero Brokerage on Equity Delivery</h1>
           <p className="text-muted">
-            All equity delivery investments (NSE, BSE), are absolutely free — ₹
-            0 brokerage.
+            Enjoy commission-free equity delivery investments — ₹0 brokerage on NSE and BSE trades.
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="media/images/intradayTrades.svg" />
-          <h1 className="fs-3">Intraday and F&O trades</h1>
+          <img src="media/images/intradayTrades.svg" alt="Intraday and F&O Trades" />
+          <h1 className="fs-3">Affordable Intraday and F&O Trades</h1>
           <p className="text-muted">
-            Flat Rs. 20 or 0.03% (whichever is lower) per executed order on
-            intraday trades across equity, currency, and commodity trades.
+            Pay a flat fee of ₹10 or 0.03% (whichever is lower) per executed order on intraday trades across equity, currency, and commodities.
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="media/images/pricingEquity.svg" />
-          <h1 className="fs-3">Free direct MF</h1>
+          <img src="media/images/pricingEquity.svg" alt="Free Direct Mutual Funds" />
+          <h1 className="fs-3">No Commissions on Direct Mutual Funds</h1>
           <p className="text-muted">
-            All direct mutual fund investments are absolutely free — ₹ 0
-            commissions & DP charges.
+            Invest in direct mutual funds with zero commissions and no DP charges.
           </p>
         </div>
       </div>

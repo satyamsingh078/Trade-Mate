@@ -5,40 +5,46 @@ function Brokerage() {
     <div className="container">
       <div className="row p-5 mt-5 text-center border-top">
         <div className="col-8 p-4">
-          <a href="" style={{ textDecoration: "none" }}>
-            <h3 className="fs-5">Brokerage calculator</h3>
+          <a href="#" style={{ textDecoration: "none" }}>
+            <h3 className="fs-5">Brokerage Calculator</h3>
           </a>
           <ul
             style={{ textAlign: "left", lineHeight: "2.5", fontSize: "12px" }}
-            className="text-mut"
+            className="text-muted"
           >
             <li>
-              Call & Trade and RMS auto-squareoff:Additional charges of ₹50 +
-              GST per order.
+              Call & Trade services incur an additional charge of ₹50 + GST per order.
             </li>
-            <li>Digital contract notes will be sent via e-mail.</li>
+            <li>Receive digital contract notes via email for convenience.</li>
             <li>
-              Physical copies of contract notes, if required, shall be charged
-              ₹20 per contract note. Courier charges apply.
+              Physical contract notes are available upon request for ₹20 each, plus courier charges.
             </li>
             <li>
-              For NRI account (non-PIS), 0.5% or ₹100 per executed order for
-              equity (whichever is lower).
+              NRI accounts (non-PIS) are charged 0.5% or ₹100 per executed order for equity trades (whichever is lower).
             </li>
             <li>
-              For NRI account (PIS), 0.5% or ₹200 per executed order for equity
-              (whichever is lower).
+              NRI accounts (PIS) incur a fee of 0.5% or ₹200 per executed order for equity trades (whichever is lower).
             </li>
             <li>
-              If the account is in debit balance, any order placed will be
-              charged ₹40 per executed order instead of ₹20 per executed order.
+              Orders placed while the account has a debit balance will incur a fee of ₹40 per executed order.
             </li>
           </ul>
         </div>
         <div className="col-4 p-4">
-          <a href="" style={{ textDecoration: "none" }}>
-            <h3 className="fs-5">List of charges</h3>
+          <a href="#" style={{ textDecoration: "none" }}>
+            <h3 className="fs-5">List of Charges</h3>
           </a>
+          <ul
+            style={{ textAlign: "left", lineHeight: "2.5", fontSize: "12px" }}
+            className="text-muted"
+          >
+            <li>Equity Delivery: ₹0 brokerage</li>
+            <li>Intraday Trades: ₹10 or 0.03% (whichever is lower)</li>
+            <li>Direct Mutual Funds: ₹0 commissions</li>
+            <li>Call & Trade: ₹50 + GST per order</li>
+            <li>NRI Equity Order (Non-PIS): 0.5% or ₹100 (whichever is lower)</li>
+            <li>NRI Equity Order (PIS): 0.5% or ₹200 (whichever is lower)</li>
+          </ul>
         </div>
       </div>
     </div>

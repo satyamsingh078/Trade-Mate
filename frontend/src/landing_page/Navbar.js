@@ -41,7 +41,7 @@ function Navbar() {
               </li>
               <li class="nav-item">
                 <Link class="nav-link active" to="/product">
-                  Product
+                  Offering
                 </Link>
               </li>
               <li class="nav-item">
