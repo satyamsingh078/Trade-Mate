@@ -20,13 +20,13 @@ function PricingPage() {
         learnMore="#"
       />
       <RightSection
-        imageURL="media/images/console.png"
+        imageURL="media/images/account.jpg"
         productName="Account Overview"
         productDescription="Get a complete view of your investments and trades. Our dashboard provides you with clear insights and analytics to help you make informed decisions."
         learnMore="#"
       />
       <LeftSection
-        imageURL="media/images/coin.png"
+        imageURL="media/images/tradeoption.jpg"
         productName="Investment Options"
         productDescription="Explore a variety of investment options with our easy-to-use platform. Experience a streamlined investment process with direct mutual funds, tailored to your needs."
         tryDemo="#"
@@ -39,7 +39,7 @@ function PricingPage() {
         learnMore="#"
       />
       <LeftSection
-        imageURL="media/images/varsity.png"
+        imageURL="media/images/hubeducation.jpg"
         productName="Education Hub"
         productDescription="Access a comprehensive collection of stock market lessons designed for all levels of investors. Learn at your own pace with bite-sized lessons and interactive content."
         tryDemo="#"

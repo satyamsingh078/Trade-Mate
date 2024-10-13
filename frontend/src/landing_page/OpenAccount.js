@@ -2,7 +2,7 @@ import React from "react";
 
 function OpenAccount() {
   return (
-    <div className="container p-5 mb-5">
+    <div className="container mt-5">
       <div className="row text-center">
         <h1 className="mt-5">Open a TradeMate account</h1>
         <p>
